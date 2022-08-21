@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java
+- :book: I’m currently studying at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong>
+- 🌱 I’m currently learning <strong>Java</strong>
 - 📫 How to reach me: lucasfelipe.lfn@gmail.com
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a technical degree at electical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
 ### Tech Stack
 <div>
 
