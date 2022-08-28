@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a technical degree at electical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
 ### Tech Stack
 <div>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -31,8 +30,8 @@ Here are some ideas to get you started:
 </div>
 <h3>How to Reach Me</h3>
 <div>
-<strong>Gmail:</strong> <a href="lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a>
-<strong>Outlook:</strong> <a href="lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a>
+<strong>Gmail:</strong> <a href="mailto:lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a>
+<strong>Outlook:</strong> <a href="mailto:lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
 <strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
 </div>
