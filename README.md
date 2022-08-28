@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - :book: I’m currently studying at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong>
 - 🌱 I’m currently learning <strong>Java</strong>
-- 📫 How to reach me: lucasfelipe.lfn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a technical degree at electical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
 ### Tech Stack
@@ -29,4 +28,11 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+</div>
+<h3>How to Reach Me</h3>
+<div>
+<strong>Gmail:</strong> <a href="lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a>
+<strong>Outlook:</strong> <a href="lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
+<strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
 </div>
