@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - :book: I’m currently studying at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong>
 - 🌱 I’m currently learning <strong>Java</strong>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a technical degree at electical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
+- ⚡ Fun fact: I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
 ### Tech Stack
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
