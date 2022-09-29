@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
 <strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
 </div>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
+</div>
