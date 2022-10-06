@@ -20,21 +20,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong>
 ### Tech Stack
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 <h3>How to Reach Me</h3>
 <div>
-<strong>Gmail:</strong> <a href="mailto:lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a> <br>
-<strong>Outlook:</strong> <a href="mailto:lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a> <br>
-<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
-<strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
+  <strong>Gmail:</strong> <a href="mailto:lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a> <br>
+  <strong>Outlook:</strong> <a href="mailto:lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a> <br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
+  <strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
 </div>
+<br><br>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
 </div>
