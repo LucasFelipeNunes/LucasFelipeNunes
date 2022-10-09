@@ -28,18 +28,19 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
-<h3>How to Reach Me</h3>
+<h3>Social Media</h3>
 <div>
-  <strong>Gmail:</strong> <a href="mailto:lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a> <br>
-  <strong>Outlook:</strong> <a href="mailto:lucasfelipe.lfn@outlook.com">lucasfelipe.lfn@outlook.com</a> <br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes">Lucas Felipe da Silva Nunes</a> <br>
-  <strong>Twitter:</strong> <a href="https://twitter.com/LucasFelipe2903?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09">@LucasFelipe2903</a>
+  <!--<strong>Gmail:</strong> <a href="mailto:lucasfelipe.lfn@gmail.com">lucasfelipe.lfn@gmail.com</a>
+  <a href="mailto:lucasfelipe.lfn@outlook.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfelipe.lfn@outlook.com" height="30" width="40"></a>-->
+  <a href="discordapp.com/users/696739208756330606"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="30" width="40"></a>
+  <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="30" width="40"></a>
+  
 </div>
 <br><br>
 <div>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Profile%20views&color=0e75b6&style=flat" alt="Number of profile views of Lucas Felipe Nunes"> </p>
 </div>
-<br><br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="LucasFelipeNunes">
 </div>
