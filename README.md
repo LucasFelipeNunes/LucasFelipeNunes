@@ -27,7 +27,7 @@
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Profile%20views&color=0e75b6&style=flat" alt="Number of profile views of Lucas Felipe Nunes"> </p>
     </div>
     <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="LucasFelipeNunes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="Most used languages in Lucas Felipe Nunes' repositories">
     </div>
   </div>
 </html>
