@@ -1,10 +1,10 @@
 <html>
   <h1>Hi there 👋 I'm Lucas Felipe</h1>
   <h2>Welcome to my GitHub profile!</h2>
-  <p>- :book: I’m currently studying at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
+  <p>- :book: I’m currently studying <strong>System Analysis and Development</strong> at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
   <p>- 🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></p>
-  <p>- 😄 Pronouns: he/him</p>
-  <p>- ⚡ Fun fact: I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></p>
+  <p>- 😄 <strong>Pronouns:</strong> he/him</p>
+  <p>- ⚡ <strong>Fun fact:</strong> I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></p>
   <h3>Tech Stack</h3>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
