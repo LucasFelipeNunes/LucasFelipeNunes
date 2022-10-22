@@ -1,7 +1,7 @@
 <html>
-  <h1>Hi there 👋 I'm Lucas Felipe</h1>
-  <h2>Welcome to my GitHub profile!</h2>
-  <p>- :book: Eu estou atulamente estudando <strong>Análise e Desenvolvimento de Sistemas<strong> na <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
+  <h1>Olá 👋 Meu nome é Lucas Felipe</h1>
+  <h2>Seja bem-vindo(a) ao meu perfil do GitHub!</h2>
+  <p>- :book: Eu estou atulamente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
   <p>- 🌱 No momento eu estou aprendendo sobre as linguagems <strong>Java</strong> e <strong>JavaScript</strong></p>
   <p>- 😄 <strong>Pronomes:</strong> ele/dele</p>
   <p>- ⚡ <strong>Curiosidade:</strong> Eu me formei como <strong>técnico em eletroeletrônica</strong> pelo <strong>Colégio Técnico Industrial de Guaratinguetá</strong></p>
