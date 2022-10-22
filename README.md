@@ -1,6 +1,7 @@
 <html>
   <h1>Hi there 👋 I'm Lucas Felipe</h1>
   <h2>Welcome to my GitHub profile!</h2>
+  Este arquivo também esta disponível em <a href="README.pt-br.md">Português do Brasil</a> <br> <br>
   <p>- :book: I’m currently studying <strong>System Analysis and Development</strong> at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
   <p>- 🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></p>
   <p>- 😄 <strong>Pronouns:</strong> he/him</p>
