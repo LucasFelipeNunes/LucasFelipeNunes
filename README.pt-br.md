@@ -6,21 +6,28 @@
   <p>- 🌱 No momento eu estou aprendendo sobre as linguagems <strong>Java</strong> e <strong>JavaScript</strong></p>
   <p>- 😄 <strong>Pronomes:</strong> ele/dele</p>
   <p>- ⚡ <strong>Curiosidade:</strong> Eu me formei como <strong>técnico em eletroeletrônica</strong> pelo <strong>Colégio Técnico Industrial de Guaratinguetá</strong></p>
-  <h3>Habilidades</h3>
+  <h2>Habilidades</h3>
+     <div>
+  <h3>Linguagens de Marcação/Estilo</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
+  </div>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+      <h3>Linguagens de Programação</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+    </div>
+    <div>
+    <h3>Outros</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
-    </div>
-  <h3>Redes Sociais</h3>
+  </div>
+  <h3>Redes Sociais - Clique para Entrar em Contato!</h3>
     <div>
       <a href="discordapp.com/users/696739208756330606"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="40" width="40"></a>
       <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40" width="40"></a>
