@@ -2,11 +2,13 @@
   <h1>Hi there 👋 I'm Lucas Felipe</h1>
   <h2>Welcome to my GitHub profile!</h2>
   <i>* Este arquivo também esta disponível em <a href="README.pt-br.md">Português do Brasil</a></i> <br> <br>
-  <p>- :book: I’m currently studying <strong>System Analysis and Development</strong> at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></p>
-  <p>- 🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></p>
-  <p>- 😄 <strong>Pronouns:</strong> he/him</p>
-  <p>- ⚡ <strong>Fun fact:</strong> I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></p>
-  <h2>Tech Stack</h2>
+<ul>
+  <li>:book: I’m currently studying <strong>System Analysis and Development</strong> at <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></li>
+  <li>🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></li>
+  <li>😄 <strong>Pronouns:</strong> he/him</li>
+  <li>⚡ <strong>Fun fact:</strong> I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></li>
+  </ul>
+<h2>Tech Stack</h2>
   <div>
   <h3>Markup/Style Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
