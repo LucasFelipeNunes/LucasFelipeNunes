@@ -3,7 +3,7 @@
   <h2>Seja bem-vindo(a) ao meu perfil do GitHub!</h2>
   <i>* This file is also available in <a href="README.md">English</a></i> <br> <br>
   <ul>
-    <li>:book: Eu estou atualmente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Tecnologia de Guaratinguetá Professor João Mod</strong></li>
+    <li>:book: Eu estou atualmente estudando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Tecnologia de Guaratinguetá</strong></li>
     <li>🌱 No momento eu estou aprendendo sobre as linguagems <strong>Java</strong> e <strong>JavaScript</strong></li>
     <li>😄 <strong>Pronomes:</strong> ele/dele</li>
     <li>⚡ <strong>Curiosidade:</strong> Eu me formei como <strong>técnico em eletroeletrônica</strong> pelo <strong>Colégio Técnico Industrial de Guaratinguetá</strong></li>
@@ -32,9 +32,10 @@
   </div>
   <h3>Redes Sociais - Clique para Entrar em Contato!</h3>
   <div>
-    <a href="discordapp.com/users/696739208756330606"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="40" width="40"></a>
-    <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40" width="40"></a>
-    <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="40" width="40"></a>
+    <a href="discordapp.com/users/696739208756330606"><img src="img/discord.png" alt="Lucas Felipe Nunes#7082" height="40"></a>
+    <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
+    <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="40"></a>
+<a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
   </div>
   <br><br>
   <div>
