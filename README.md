@@ -14,6 +14,7 @@
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Amarkdown"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"></a>
   </div>
   <div>
     <h3>Programming Languages</h3>
