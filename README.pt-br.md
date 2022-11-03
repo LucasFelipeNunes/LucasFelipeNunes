@@ -8,29 +8,29 @@
     <li>😄 <strong>Pronomes:</strong> ele/dele</li>
     <li>⚡ <strong>Curiosidade:</strong> Eu me formei como <strong>técnico em eletroeletrônica</strong> pelo <strong>Colégio Técnico Industrial de Guaratinguetá</strong></li>
   </ul>
-  <h2>Habilidades</h2>
+  <h2>Habilidades - Clique para ver projetos relacionados!</h2>
   <div>
-    <h3>Linguagens de Marcação/Estilo</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
+    <h3>Linguagens de Marcação e Estilo</h3>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
   </div>
   <div>
     <h3>Linguagens de Programação</h3>
-    <img src="img/g-code.png" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag"><img src="img/g-code.png" height="40"></a>-->
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a>
   </div>
   <div>
     <h3>Outros</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
   </div>
-  <h3>Redes Sociais - Clique para Entrar em Contato!</h3>
+  <h3>Redes Sociais - Clique para entrar em contato!</h3>
   <div>
     <a href="discordapp.com/users/696739208756330606"><img src="img/discord.png" alt="Lucas Felipe Nunes#7082" height="40"></a>
     <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
