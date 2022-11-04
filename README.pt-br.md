@@ -31,7 +31,7 @@
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
   </div>
-  <h3>Redes Sociais - Clique para entrar em contato!</h3>
+  <h2>Redes Sociais - Clique para entrar em contato!</h3>
   <div>
     <a href="discordapp.com/users/696739208756330606"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="40"></a>
     <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
