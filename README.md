@@ -19,6 +19,7 @@
   <div>
     <h3>Programming Languages</h3>
     <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag"><img src="img/g-code.png" height="40"></a>-->
+
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
@@ -26,8 +27,8 @@
   </div>
   <div>
     <h3>Softwares</h3>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
 </div>
   <div>
