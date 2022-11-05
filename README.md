@@ -25,6 +25,12 @@
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a>
   </div>
   <div>
+    <h3>Softwares</h3>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
+</div>
+  <div>
     <h3>Others</h3>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
