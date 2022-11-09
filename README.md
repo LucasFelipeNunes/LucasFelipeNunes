@@ -7,7 +7,7 @@
     <li>🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></li>
     <li>😄 <strong>Pronouns:</strong> he/him</li>
     <li>⚡ <strong>Fun fact:</strong> I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></li>
-   </ul>
+  </ul>
   <h2>Tech Stack - Click to see related projects!</h2>
   <div>
     <h3>Markup and Style Languages</h3>
@@ -18,8 +18,7 @@
   </div>
   <div>
     <h3>Programming Languages</h3>
-    <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag"><img src="img/g-code.png" height="40"></a>
-</div> ignorar div-->
+    <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag"><img src="img/g-code.png" height="40"></a>-->
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
@@ -30,7 +29,7 @@
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
-</div>
+  </div>
   <div>
     <h3>Others</h3>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
@@ -43,8 +42,7 @@
     <a href="https://discordapp.com/users/696739208756330606"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="40"></a>
     <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
     <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="40"></a>
-    <a href="https://www.facebook.com/profile.php?id=100003947056720"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lucas Felipe Nunes" height="40"/></a>
-<a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
+    <a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
   </div>
   <br><br>
   <div>
