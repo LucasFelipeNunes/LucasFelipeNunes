@@ -20,6 +20,7 @@
     <h3>Programming Languages</h3>
     <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag+fork%3Atrue+fork%3Atrue"><img src="img/g-code.png" height="40"></a>-->
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
+<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a>
@@ -46,10 +47,10 @@
     <a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
   </div>
   <br><br>
-  <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Profile%20views&color=0e75b6&style=flat" alt="Number of profile views of Lucas Felipe Nunes"> </p>
-  </div>
-  <div>
+  <figure>
+    <img src="https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Profile%20views&color=0e75b6&style=flat" alt="Number of profile views of Lucas Felipe Nunes">
+  </figure>
+  <figure>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="Most used languages in Lucas Felipe Nunes' repositories">
-  </div>
+  </figure>
 </html>
