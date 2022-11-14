@@ -1,5 +1,5 @@
 <html>
-  <h1>Hi there 👋 I'm Lucas Felipe</h1>
+  <h1>Hi there 👋 I'm Lucas Nunes</h1>
   <h2>Welcome to my GitHub profile!</h2>
   <i>* Este arquivo também esta disponível em <a href="README.pt-br.md">Português do Brasil</a></i> <br> <br>
   <ul>
