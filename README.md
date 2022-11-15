@@ -52,5 +52,6 @@
   </figure>
   <figure>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact" alt="Most used languages in Lucas Felipe Nunes' repositories">
-  </figure>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeNunes&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"-->
+</figure>
 </html>
