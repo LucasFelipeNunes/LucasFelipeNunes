@@ -13,7 +13,7 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Amarkdown+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"></a>
+    <a href="https://github.com/search?l=&q=user%3ALucasFelipeNunes+language%3AMarkdown&type=code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"></a>
   </div>
   <div>
     <h3>Programming Languages</h3>
