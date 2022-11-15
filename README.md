@@ -1,13 +1,12 @@
+# Hi there 👋 I'm Lucas Nunes</h1>
+## Welcome to my GitHub profile!
+_* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.md)_
+- :book: I’m currently studying **System Analysis and Development** at Faculdade de Tecnologia de Guaratinguetá
+- 🌱 I’m currently learning **Java** and **JavaScript**
+- 😄 My pronouns are **he/him**
+- ⚡ I also have a technical degree at **Electrical-electronic Engineering** from Colégio Técnico Industrial de Guaratinguetá
+- 📫 How to reach me **[lucasfelipe.lfn@gmail.com](mailto:lucasfelipe.lfn@gmail.com)**
 <html>
-  <h1>Hi there 👋 I'm Lucas Nunes</h1>
-  <h2>Welcome to my GitHub profile!</h2>
-  <i>* Este arquivo também esta disponível em <a href="README.pt-br.md">Português do Brasil</a></i> <br> <br>
-  <ul>
-    <li>:book: I’m currently studying <strong>System Analysis and Development</strong> at <strong>Faculdade de Tecnologia de Guaratinguetá</strong></li>
-    <li>🌱 I’m currently learning <strong>Java</strong> and <strong>JavaScript</strong></li>
-    <li>😄 <strong>Pronouns:</strong> he/him</li>
-    <li>⚡ <strong>Fun fact:</strong> I have a technical degree at electrical-electronic engineering from <strong>Colégio Técnico Industrial de Guaratinguetá</strong></li>
-  </ul>
   <h2>Tech Stack - Click to see related projects!</h2>
   <div>
     <h3>Markup and Style Languages</h3>
