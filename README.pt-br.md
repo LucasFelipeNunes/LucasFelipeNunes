@@ -25,8 +25,10 @@ _* This file is also available in [English](README.md)_
 <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br><br>
 </html>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=pt-br&layout=compact&langs_count=10)
 
 ### Programas
 
@@ -46,7 +48,6 @@ _* This file is also available in [English](README.md)_
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
 </html>
 
-![Linguagens mais utilizadas por mim](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=pt-br&layout=compact)
 ## Redes Sociais - Clique para entrar em contato!
 
 <html>
@@ -54,5 +55,4 @@ _* This file is also available in [English](README.md)_
     <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
     <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="40"></a>
     <a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelipeNunes&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"-->
 </html>
