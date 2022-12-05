@@ -1,8 +1,6 @@
 # Olá 👋 Meu nome é Lucas Felipe
 ## Bem-vindo (a) ao meu perfil!
 _* This file is also available in [English](README.md)_
-
-![Número de visualizações do meu perfil](https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Visualizações%20do%20perfil&color=0e75b6&style=flat)
 - :book: Eu estou atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de Guaratinguetá
 - 🌱 Eu estou atualmente aprendendo as linguagens **Java** e **JavaScript**
 - 😄 Meus pronomes são **ele/dele**
