@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Lucas Nunes
 ## Welcome to my GitHub profile!
 _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.md)_
-
-![Number of Profile Views](https://komarev.com/ghpvc/?username=LucasFelipeNunes&label=Profile%20views&color=0e75b6&style=flat)
 - :book: I’m currently studying **System Analysis and Development** at Faculdade de Tecnologia de Guaratinguetá
 - 🌱 I’m currently learning **Java** and **JavaScript**
 - 😄 My pronouns are **he/him**
