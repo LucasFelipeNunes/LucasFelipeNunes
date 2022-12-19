@@ -18,9 +18,11 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
 ### Programming Languages
 
 <html>
-    <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag+fork%3Atrue"><img src="img/g-code.png" height="40"></a>-->
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Aassembly+fork%3Atrue"><img src="img/assembly.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag-code+fork%3Atrue"><img src="img/g-code.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3AR+fork%3Atrue"><img src="img/r-language.png" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
-<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br> <br>

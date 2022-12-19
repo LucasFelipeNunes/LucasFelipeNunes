@@ -18,7 +18,9 @@ _* This file is also available in [English](README.md)_
 ### Linguagens de Programação
 
 <html>
-    <!--<a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag+fork%3Atrue+fork%3Atrue"><img src="img/g-code.png" height="40"></a>-->
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Aassembly+fork%3Atrue"><img src="img/assembly.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag-code+fork%3Atrue"><img src="img/g-code.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3AR+fork%3Atrue"><img src="img/r-language.png" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
 <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
@@ -26,7 +28,7 @@ _* This file is also available in [English](README.md)_
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br><br>
 </html>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=pt-br&layout=compact&langs_count=10)
+![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=pt-br&layout=compact&langs_count=10)
 
 ### Programas
 
