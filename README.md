@@ -42,6 +42,7 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
 ### Others
 
 <html>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
