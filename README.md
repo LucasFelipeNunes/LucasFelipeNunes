@@ -9,23 +9,23 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
 ## Tech Stack - Click to see related projects!
 ### Markup and Style Languages
 <html>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
     <a href="https://github.com/search?l=&q=user%3ALucasFelipeNunes+language%3AMarkdown&type=code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"></a>
 </html>
 
 ### Programming Languages
 
 <html>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Aassembly+fork%3Atrue"><img src="img/assembly.png" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag-code+fork%3Atrue"><img src="img/g-code.png" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3AR+fork%3Atrue"><img src="img/r-language.png" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br> <br>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Aassembly"><img src="img/assembly.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ag-code"><img src="img/g-code.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3AR"><img src="img/r-language.png" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br> <br>
 </html>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=en&layout=compact&langs_count=10)
@@ -33,20 +33,21 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
 ### Softwares
 
 <html>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode+fork%3Atrue"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio+fork%3Atrue"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany+fork%3Atrue"><img src="img/geany.png" alt="Geany" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Adev-cpp+fork%3Atrue"><img src="img/dev-cpp.png" alt="Dev-C++" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Adev-cpp"><img src="img/dev-cpp.png" alt="Dev-C++" height="40"/></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Anetbeans"><img src="img/netbeans.png" alt="Dev-C++" height="40"/></a>
 </html>
 
 ### Others
 
 <html>
-    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
 </html>
 
 ## Social Media - Click to contact me!
