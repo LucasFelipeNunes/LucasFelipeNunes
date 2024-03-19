@@ -43,6 +43,8 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
 ### Others
 
 <html>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Areact"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anextjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
