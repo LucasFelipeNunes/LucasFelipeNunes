@@ -2,6 +2,7 @@
 ## Welcome to my GitHub profile!
 _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.md)_
 - :book: I’m currently studying **System Analysis and Development** at Faculdade de Tecnologia de Guaratinguetá
+- 🌎 I am fluent in English and Portuguese
 - 🌱 I’m currently learning **Java** and **JavaScript**
 - 😄 My pronouns are **he/him**
 - ⚡ I also have a technical degree at **Electrical-electronic Engineering** from Colégio Técnico Industrial de Guaratinguetá
