@@ -2,6 +2,7 @@
 ## Bem-vindo (a) ao meu perfil!
 _* This file is also available in [English](README.md)_
 - :book: Eu estou atualmente cursando **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia de Guaratinguetá
+- 🌎 Sou fluente em inglês
 - 🌱 Eu estou atualmente aprendendo as linguagens **Java** e **JavaScript**
 - 😄 Meus pronomes são **ele/dele**
 - ⚡ Eu sou formado técnico em **Eletroeletrônica** pelo Colégio Técnico Industrial de Guaratinguetá
