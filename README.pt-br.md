@@ -39,13 +39,20 @@ _* This file is also available in [English](README.md)_
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Adev-cpp+fork%3Atrue+fork%3Atrue"><img src="img/dev-cpp.png" alt="Dev-C++" height="40"/></a>
 </html>
 
-### Outros
+### Frameworks
 
 <html>
     <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Areact"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anextjs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Abootstrap+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Atailwind+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"></a>
+</html>
+
+### Outros
+
+<html>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Auml+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Anode-js+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Aarduino+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agit+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Agithub+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></a>
