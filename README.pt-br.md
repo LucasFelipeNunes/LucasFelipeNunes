@@ -12,7 +12,7 @@ _* This file is also available in [English](README.md)_
 <html>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ahtml+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acss+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Atex+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tex/tex-original.svg" height="40"></a>
     <a href="https://github.com/search?l=&q=user%3ALucasFelipeNunes+language%3AMarkdown&type=code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"></a>
 </html>
 
@@ -26,10 +26,18 @@ _* This file is also available in [English](README.md)_
 <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Acpp+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ac%23+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajava+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Aphp+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"></a>
     <a href="https://github.com/search?q=user%3ALucasFelipeNunes+language%3Ajavascript+fork%3Atrue+fork%3Atrue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"></a> <br><br>
 </html>
 
 ![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs?username=LucasFelipeNunes&show_icons=true&locale=pt-br&layout=compact&langs_count=10)
+
+### Bases de Dados
+
+<html>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Amysql"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"></a>
+    <a href="https://github.com/search?q=user%3aLucasFelipeNunes+topic%3Amongodb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"></a>
+</html>
 
 ### Programas
 
