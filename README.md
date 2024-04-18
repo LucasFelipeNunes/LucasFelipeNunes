@@ -73,5 +73,7 @@ _* Este arquivo também esta disponível em [Português do Brasil](README.pt-br.
     <a href="https://discordapp.com/users/696739208756330606"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucas Felipe Nunes#7082" height="40"></a>
     <a href="https://twitter.com/LucasFelipeLFN?t=mYn7DYh7Wqjsw8fIQIkZ2g&s=09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@LucasFelipeLFN" height="40"></a>
     <a href="https://www.linkedin.com/in/lucasfelipedasilvanunes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Felipe da Silva Nunes" height="40"></a>
-    <a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a>
+    <a href="https://instagram.com/lucas.felipe.nunes"><img src="img/instagram.png" alt="lucas.felipe.nunes" height="40"></a> <br> <br>
+    <p><strong>PS:</strong> Thanks to <a href="https://devicon.dev/">DevIcons</a> for the technologies' images</p>
 </html>
+
